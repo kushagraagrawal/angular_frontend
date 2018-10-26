@@ -2,6 +2,9 @@
   .example-card {
     max-width: 200px;
     margin: 0;
+    float: left;
+    padding-left: 5px;
+    padding: auto;
   }
   
   .example-header-image {
