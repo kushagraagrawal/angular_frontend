@@ -2,10 +2,11 @@
     
     align-items: center;
     justify-content: center;
-    display: inline-flex;
+    /* display: inline-flex; */
     margin: 0;
-    float: left;
+    /* float: left; */
     /* padding-left: 1cm; */
-    padding: 0;
+    /* margin-left: 10px;
+    margin: auto; */
     width: 100%;
   }
